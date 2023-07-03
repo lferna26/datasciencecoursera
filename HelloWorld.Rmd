@@ -1,0 +1,16 @@
+---
+title: "HelloWorld"
+author: "lfernan26"
+date: "2023-07-03"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+##This is a Markdown file.
