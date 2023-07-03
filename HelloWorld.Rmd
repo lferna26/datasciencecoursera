@@ -3,14 +3,12 @@ title: "HelloWorld"
 author: "lfernan26"
 date: "2023-07-03"
 output:
-  html_document: default
   word_document: default
+  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
-
-##This is a Markdown file.
+## This is a Markdown file.
